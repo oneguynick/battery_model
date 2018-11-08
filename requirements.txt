@@ -1,0 +1,7 @@
+pandas
+numpy
+pyomo
+runipy
+altair
+jupyter
+vega

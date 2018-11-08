@@ -7,3 +7,10 @@ Click on the "launch binder" button above to launch an interactive version of th
 
 ## Organization
 Functions to read data and run the optimization are included in the `src` folder. The optimization and exploration of results are included in the `Dispatch optimization` notebook. The `Price exploration` notebook includes a few figures exploring patterns in hourly LBMP values over the course of 2017. 
+
+### Install
+*   Install glpk-utils
+*   virtualenv -p python3.6 .venv
+*   source .venv/bin/activate
+*   pip install -r requirements.txt
+*   runipy Dispatch...
